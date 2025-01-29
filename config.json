@@ -1,11 +1,11 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "domain": "prof",
-               "SC_ForwardProxy": "0",
-               "SC_PROXY": "0",
-               "VX_ForwardProxy": "0",
-               "VX_PROXY": "0",
+               "domain": "paris",
+               "SC_ForwardProxy": "1",
+               "SC_PROXY": "1",
+               "VX_ForwardProxy": "1",
+               "VX_PROXY": "1",
                "enabled": "1"
            },
            "Filmpertutti": {
@@ -30,7 +30,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "domain":"sbs",
+              "domain":"mobi",
               "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
