@@ -13,9 +13,9 @@
                "enabled": "1"
            },
            "Tantifilm":{
-               "domain": "bond",
+               "domain": "name",
                "TF_ForwardProxy": "0",
-               "TF_PROXY": "0",
+               "TF_PROXY": "1",
                "enabled": "1"
            },
            "Mysterius":{
