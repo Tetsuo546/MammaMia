@@ -32,8 +32,8 @@
           "CB01":{
               "url":"https://cb01new.loan",
               "CB_PROXY":"1",
-              "CB_ForwardProxy":"0",
-              "MX_ForwardProxy":"0",
+              "CB_ForwardProxy":"1",
+              "MX_ForwardProxy":"1",
               "MX_PROXY":"1",
               "enabled":"1"
           },
@@ -56,8 +56,8 @@
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
               "enabled":"1",
-              "GH_ForwardProxy":"0",
-              "GH_PROXY":"0"
+              "GH_ForwardProxy":"1",
+              "GH_PROXY":"1"
           },
           "Onlineserietv":{
               "domain":"com",
