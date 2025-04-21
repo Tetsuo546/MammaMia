@@ -57,7 +57,7 @@
               "url":"https://mostraguarda.stream",
               "enabled":"1",
               "GH_ForwardProxy":"0",
-              "GH_PROXY":"1"
+              "GH_PROXY":"0"
           },
           "Onlineserietv":{
               "domain":"com",
