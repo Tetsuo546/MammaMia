@@ -32,8 +32,8 @@
           "CB01":{
               "url":"https://cb01new.loan",
               "CB_PROXY":"1",
-              "CB_ForwardProxy":"1",
-              "MX_ForwardProxy":"1",
+              "CB_ForwardProxy":"0",
+              "MX_ForwardProxy":"0",
               "MX_PROXY":"1",
               "enabled":"1"
           },
