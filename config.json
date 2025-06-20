@@ -3,7 +3,7 @@
         "StreamingCommunity": {
             "url": "https://streamingunity.agency",
             "SC_ForwardProxy": "0",
-            "SC_PROXY": "0",
+            "SC_PROXY": "1",
             "VX_ForwardProxy": "0",
             "VX_PROXY": "0",
             "enabled": "1"
@@ -14,7 +14,7 @@
         },
         "Tantifilm": {
             "url": "https://www.alliance4creativity.com",
-            "TF_ForwardProxy": "0",
+            "TF_ForwardProxy": "1",
             "TF_PROXY": "1",
             "enabled": "1"
         },
@@ -34,7 +34,7 @@
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
-            "MX_PROXY": "0",
+            "MX_PROXY": "1",
             "enabled": "1"
         },
         "DDLStream": {
@@ -63,7 +63,7 @@
             "domain": "com",
             "enabled": "1",
             "OST_ForwardProxy": "0",
-            "OST_PROXY": "0"
+            "OST_PROXY": "1"
         },
         "AnimeWorld": {
             "url": "https://www.animeworld.ac",
